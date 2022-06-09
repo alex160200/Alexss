@@ -1,0 +1,17 @@
+.menu a{
+    font-size: 19px;
+    padding: 10px 20px;
+    color: rgb(0, 60, 151);
+    transition: 0.5s;
+}
+.menu a:hover{
+    background: rgba(0, 119, 255, 0.75);
+    color: rgb(0, 0, 0);
+}
+.nombre{
+    font-size: 25px;
+    cursor: pointer;
+}
+.body{
+    background-color: rgb(206, 206, 206);
+}

@@ -1,0 +1,27 @@
+.menu a{
+    font-size: 19px;
+    padding: 10px 20px;
+    color: rgb(0, 14, 207);
+    transition: 0.5s;
+}
+.menu a:hover{
+    background: rgba(81, 255, 0, 0.75);
+    color: rgb(0, 0, 0);
+}
+.nombre{
+    font-size: 25px;
+    cursor: pointer;
+}
+.body{
+    background-color: rgb(127, 157, 255);
+}
+.footer{
+    background-color: rgb(7, 0, 66);
+}
+.footer h2{
+    color: white;
+    font-size: 30px;
+}
+.footer p{
+    color: white;
+}
